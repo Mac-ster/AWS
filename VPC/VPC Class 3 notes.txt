@@ -1,0 +1,32 @@
+Connecting to EC2 instance
+
+Open PuttyGen
+Load .pem key file and save it as .ppk file
+
+Open Putty
+Copy and Paste Host ip address from EC2 Public ip
+
+Then go to SSH --> Auth --> Credentials
+Browse the .ppk file
+
+login as: ec2-user
+
+ping private ip address copied from Private EC2
+(This will check whether we can connect our Public EC2 to Private EC2)
+
+
+Second part of assignment to log in to Private EC2 over SSH
+For this we required a SSH key
+
+Step1: Create SSH key file
+Putty Command: vi file_name.pem
+Then copy the content from keypair file downloaded from AWS Ec2 and paste by right click
+then press ":wq" to save the file.
+
+ 
+Step2: Change the permission of file to 400 (or else SSH won't work)
+Putty command: chmod 400 file_name.pem 
+
+Step3: ssh -i file_name.pem ec2-user@Private EC2 IP address.
+
+Step4: ping google.com to check private ec2
