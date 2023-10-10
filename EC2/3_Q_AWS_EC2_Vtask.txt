@@ -1,0 +1,37 @@
+
+
+EC2
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans
+
+
+How do I create EBS volume?
+
+
+How do I create EBS Volumes
+https://www.youtube.com/watch?v=RNg-fnjMrMo
+
+1	What is Amazon EBS volume?
+Ans.	It is a cloud based storage service offered by AWS, which is designed to offer scalable and high performance block storage volume for use with EC2 instances and other AWS resources
+2	EBS stands for?
+Ans.	Elastic Block Storage
+3	How to create EBS volume?
+Ans.	It can be created while launching EC2 instance or if we want to add up, else from EC2 Dashboard select EBS volume  Create Volume  Select the required configuration then attach to EC2 instance then create.
+4	Where we can add EBS volume?
+Ans.	Either during instance launch or can create under EBS volume and attach to EC2 instance
+5	What are the categories of EBS volume?
+Ans.	General SSD, Provisioned IOPS SSD, Throughput HDD, Cold HDD and Amazon EBS snapshot and Amazon EBS Magnetic Volumes
+6	SSD stands for?
+Ans.	Solid State Drive
+7	HDD stands for?
+Ans.	Hard Disk Drives
+8	What are the advantages of SSD over HDD?
+Ans.	Better performance, low latency, reliability, easy to upgrade and energy efficient
+9	What are the advantages of HDD?
+Ans.	Cost Effective, Easy Data Recovery, Higher Capacity options and compatibility with older systems
+
+
+
