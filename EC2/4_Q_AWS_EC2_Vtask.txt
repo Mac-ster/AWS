@@ -1,0 +1,34 @@
+
+
+EC2
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans
+
+
+How do I create an EBS snapshot?
+
+
+How do I create EBS Snapshots Backup
+https://www.youtube.com/watch?v=d8pVb-sHZb8
+
+1	How to create EC2 instances?
+Ans.	Alt + S  Search EC2  Launch Instance  Name it and configure as per requirement  Launch
+2	What is a key pair?
+Ans.	It is used to connect EC2 through SSH (Secured Shell)
+3	Which command we use to SSH into the instance?
+Ans.	Ec2-user
+4	How to create snapshots?
+Ans.	Under Elastic block Storage   Select Volume  Select the volume from List  Action  Create Snapshot
+Note: Snapshot will be in same region as Volume.
+5	How to create volumes from snapshots?
+Ans.	Select Snapshot  Action  Select Create Volume
+6	How to restore volume?
+Ans.
+7	How to start instances?
+Ans.	Select the instance and click action  start instance
+8	How to stop instances?
+Ans.	Select the instance and click action  Stop instance
+
