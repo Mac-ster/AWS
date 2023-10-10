@@ -1,0 +1,26 @@
+
+
+EC2
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans
+
+
+
+How to launch & RDP EC2 windows instance?
+
+
+How do I Launch & RDP EC2 Windows Instance
+https://www.youtube.com/watch?v=WvC-awKkrF8
+
+1	How to create EC2 instances?
+Ans.	Login AWS console  Search EC2 Launch EC2  Name  Select AZ  Launch
+2	What is key pair?
+Ans.	It is used to connect EC2 through SSH (Secure Shell), most secure login access.
+3	How do we connect to AWS EC2 windows server instance?
+Ans.	Download Putty application, then download Key Pair created while launching instance, conver that Key pair file from pem to ppk using putty gen. Launch Putty, copy the address by selecting instance and clicking Connect and paste in host box in putty. Next go to Auth, browse ppk file then click open. Once open type “ec2-user”
+4	What is remote desktop file?
+Ans.	It is a short cut file to establish remote connection to computer or server, in our case is EC2 instance.
+
