@@ -1,0 +1,33 @@
+VPC
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans”
+
+
+What is route table?
+
+How do I create Route Table
+https://www.youtube.com/watch?v=GrfOsWUVCfg
+
+1	What is route table?
+Ans.	Route Table is set of rules, known as routes, which determines where the network traffic is directed.
+2	How to create route table?
+Ans.	VPC Dashboard  Route Tables  Create RT  Name  Select the Required VPC
+3	How to delete route table?
+Ans.	Select the route table  Actions  Delete
+Note: if RT has any dependencies attached or associated to it, then we cannot delete the RT
+4	How to create internet gateways?
+Ans.	VPC Dashboard  Internet Gateway  Create New  Name the IGW  Create  Attach the new IGW to respective VPC
+5	What are internet gateways?
+Ans.	Internet gateways connect the Vpc public resource to the internet.
+6	How to attach internet gateways to VPC?
+Ans.	Select the IGW  Action  Attach Select VPC
+7	How to detach internet gateways to VPC?
+Ans.	Select IGW  Action  Detach
+8	What are the route table rules and details you need to know?
+Ans.	Route Tables direct the traffic to respective subnets
+Route Table associated with any dependencies or have any resources attached to it cannot be deleted.
+9	Is your “default” VPC already has a “main” route table?
+Ans.	Yes
+
