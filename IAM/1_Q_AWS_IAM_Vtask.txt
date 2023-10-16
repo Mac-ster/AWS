@@ -1,0 +1,29 @@
+
+
+IAM
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans
+
+
+How to create and configure IAM?
+
+How do I Create and Configure IAM User
+https://www.youtube.com/watch?v=wRzzBb18qUw
+
+1	IAM stands for?
+Ans.	Identity and Access Management
+2	How to create IAM user?
+Ans.	Services  Search IAM  User  Create User  Provide the required information
+3	How to sign in using IAM user credential?
+Ans.	Copy the url, generated after IAM user created. Enter user name and password.
+4	How to manage the password for IAM user?
+Ans.	Select the IAM user Security Credentials  Manage Console Access  Select Custom Password
+5	How to add AWS managed permission for existing IAM user?
+Ans.	Select User  Permissions  Add Permissions.
+
+
+
+
