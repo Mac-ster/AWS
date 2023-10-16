@@ -1,0 +1,38 @@
+
+
+
+IAM
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans”
+
+
+What are policies?
+
+
+ How do I AWS Managed & Customer Managed & Inline Policy
+https://www.youtube.com/watch?v=MA1ELed5MbU
+
+1	What are IAM policies?
+Ans.	Sets of permission that define what access a user, groups and roles in AWS can perform on AWS resources.
+2	What is identity based policy?
+Ans.	Which are assigned to Users
+3	What is resource based policy?
+Ans.	Which are assigned to AWS resources access
+4	Give an example of resource based policy?
+Ans.	SQS, S3, DMS
+5	What is AWS managed policy?
+Ans.	These policies are predefined in AWS and managed by AWS itself,
+6	What is customer based policy?
+Ans.	These policies are User defined, basically the root user/ who has access, is able to define these policies
+7	What is inline policy?
+Ans.	These policies are defined for particular task to be performed by selective user in group of users working on AWS resources.
+8	How to you use policies?
+Ans.	Go to policies under IAM  Define policy
+9	How to create our own policies?
+Ans.	Go to policies under IAM  Define policy
+10	What do you mean by permission in AWS?
+Ans.	Setting the access for particular users, groups or resources.
+
