@@ -1,0 +1,46 @@
+
+
+
+IAM
+
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans
+
+
+How to create IAM policies?
+
+
+How do I create IAM Policy and Permission
+https://www.youtube.com/watch?v=9n28d8ezrLQ
+
+
+1
+IAM stands for?
+Ans.
+
+
+2
+How to create IAM policy?
+Ans.
+
+
+3
+How to create roles?
+Ans.
+
+
+4
+What are IAM roles?
+Ans.
+
+
+5
+What are IAM policies?
+Ans.
+
+
+
+
