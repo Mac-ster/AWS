@@ -1,0 +1,33 @@
+
+VPC
+
+
+To watch the below video, you need to right click on the Hyperlink just below the highlighted task in red colour and select the Open Hyperlink option. It will take you to the YouTube where you can watch the concerned video.
+You are required to watch the video and answer the Questions asked below.
+You need to type answers in the row indicated with “Ans”
+
+
+What is VPC?
+
+How do I Create VPC
+https://www.youtube.com/watch?v=2TiBt-y5pAQ
+
+1	What is the first thing you need to do to create a VPC?
+Ans.	Select Region  Find VPC  Create New VPC
+2	What does VPC stand for?
+Ans.	Virtual Private Cloud
+3	How to create VPC?
+Ans.	Select Region  Find VPC  Create New VPC
+4	How to create internet gateways?
+Ans.	Services VPC  Select IGW  Create IGW
+5	How to attach internet gateways to VPC?
+Ans.	Once the IGW is created select the IGW, click on attach and attach to desired VPC
+6	How to create subnets?
+Ans.	Services VPC  Subnets Create Subnets
+7	How to start auto modify auto-assign IP settings?
+Ans.	Go to VPC dashboard subnets  Select the subnet to enable auto-assign public IP Actions  Select Modify auto-assign IP settings
+8	How to create a public/private route table?
+Ans.	If the internet IGW is attached to any route table then its Public else its Private.
+9	How to attach a public/private subnet to a route table?
+Ans.	Go to Route Tables  Select the RT  Under association select edit  Attach the respective subnets to RT
+
